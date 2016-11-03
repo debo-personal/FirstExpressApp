@@ -1,0 +1,15 @@
+{
+  "name": "universal-login",
+  "version": "1.0.0",
+  "description": "This is a Login app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Debajit Majumder",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
